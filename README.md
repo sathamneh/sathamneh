@@ -1,7 +1,5 @@
 - Hi, I’m @sathamneh
-- I’m interested in technology, open source, problem-solving tools, business intelligence
-- I am currently focused on System tuning, cluster management, Integration, and network audits/monitoring.
-- I work with Servers (Windows/Linux) and code (Java, JavaScript, PHP, Powershell, Bash, Python).
+- I'm passionate about technology, open source, business intelligence, AI, and machine learning, focusing on building solutions and managing technology stacks, with expertise in IT management, security, programming, and infrastructure management.
 - To reach me, contact suheel (a-t) athamneh.info.
 - 
 
